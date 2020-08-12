@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="filename">savedDatumss.json</string>
+    <string name="pattern">dd/MM/yyyy HH:mm</string>
+</resources>
